@@ -4,4 +4,4 @@ Tank game made with C# and Monogame framework.
 
 Capable of 2 players or player vs computer.
 
-The "AI" was made with Boids
+The computer behavior was made with Boids
