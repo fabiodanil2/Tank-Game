@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/salom/OneDrive/Ambiente de Trabalho/EDJD_IP3D_1920_TPF1_16927_17007/Content/1.jpg","C:/Users/salom/OneDrive/Ambiente de Trabalho/EDJD_IP3D_1920_TPF1_16927_17007/Content/bin/Windows/1.xnb","TextureProcessor","Texture2DContent",51578,957685,0.2218861
+"C:/Users/salom/OneDrive/Ambiente de Trabalho/EDJD_IP3D_1920_TPF1_16927_17007/Content/3.jpg","C:/Users/salom/OneDrive/Ambiente de Trabalho/EDJD_IP3D_1920_TPF1_16927_17007/Content/bin/Windows/3.xnb","TextureProcessor","Texture2DContent",236886,1044253,0.0318585
+"C:/Users/salom/OneDrive/Ambiente de Trabalho/EDJD_IP3D_1920_TPF1_16927_17007/Content/lh3d1.jpg","C:/Users/salom/OneDrive/Ambiente de Trabalho/EDJD_IP3D_1920_TPF1_16927_17007/Content/bin/Windows/lh3d1.xnb","TextureProcessor","Texture2DContent",6740,65621,0.003988
